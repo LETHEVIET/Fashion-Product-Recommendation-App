@@ -3,3 +3,5 @@ archive/*
 archive.zip
 embeddings.npy
 metadata.csv
+demo.py
+main.py
